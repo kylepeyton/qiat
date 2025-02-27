@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://kyle-peyton.com/qiat/iat10_mobile.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://cdn.jsdelivr.net/gh/kylepeyton/qiat@main/iat10_mobile.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
