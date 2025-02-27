@@ -10,7 +10,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/kylepeyton/qiat@main/iat10_mobile
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'bf1.jpeg'}, 
+    		  {image : 'bf1.jpeg'}, 
     			{image : 'bf2.jpeg'}, 
     			{image : 'bf3.jpeg'}, 
     			{image : 'bm1.jpeg'}, 
@@ -28,7 +28,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/kylepeyton/qiat@main/iat10_mobile
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'wf1.jpeg'}, 
+    		  {image : 'wf1.jpeg'}, 
     			{image : 'wf2.jpeg'}, 
     			{image : 'wf3.jpeg'}, 
     			{image : 'wm1.jpeg'}, 
